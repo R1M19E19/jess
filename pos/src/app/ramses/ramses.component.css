@@ -1,0 +1,72 @@
+.par{
+    height: 497;
+    max-width: 1350px;
+    margin: 45px auto;
+}
+.a{
+    background-color: blue;
+    height: 799px;
+    background-image: url(../../assets/IMG/selfies_large.jpg);
+    background-size: 100% 100%;
+    z-index: 10;
+    background-repeat: no-repeat;
+    border-right: 10px;
+    border-style: solid;
+    border-color: white;
+}
+.b{
+    height: 799px;
+    margin: 36;
+    background-image: url(../../assets/IMG/howtoshoot_tile_large.jpg);
+    background-size: 100% 100%;
+    z-index: 10;
+    background-repeat: no-repeat;
+    border-left: 10px;
+    border-style: solid;
+    border-color: white;
+}
+.c{
+    height: 600px;
+    margin: 36;
+    background-size: 100% 100%;
+    z-index: 10;
+    background-repeat: no-repeat;
+}
+.d{
+    height: 500px;
+    margin: auto 0;
+    background-image: url(../../assets/IMG/promo_tile_icloud_large.jpg);
+    background-size: 100% 100%;
+    z-index: 10;
+    background-repeat: no-repeat;
+}
+.e{
+    height: 500px;
+    max-width: 1350px;
+    margin: 45px auto;
+    padding: 94px;
+    background-image: url(../../assets/IMG/families_large.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.titulos{
+    color: antiquewhite;
+    font-family: sans-serif;
+    font-style: normal;
+}
+/* Safari 6.1+ #main {
+    width: auto;
+    height: auto;
+    border: 1px solid #c3c3c3;
+    display: -webkit-flex;
+    -webkit-justify-content: center; 
+    display: flex;
+    justify-content: center;
+    margin: 63px;
+}
+#main div {
+    width: 540px;
+    height: 736px;
+
+}
+*/
